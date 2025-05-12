@@ -1,16 +1,14 @@
 # Primeira aula de Logica de programação
 
-comandos:
-git init
-git config --local user.name "Seu Nome"
-git config --local user.email "Seu emai"
-git status
-git push -u origin master
+### comandos git:
+- git init
+- git config --local user.name "Seu Nome"
+- git config --local user.email "Seu emai"
+- git status
+- git push -u origin master
+- quando necessário git config credential.username "Seu Nome"
 
--- quando necessário
-git config credential.username "Seu Nome"
-
-cmd principais comandos
+### cmd principais comandos:
 dir -
 Lista os arquivos e pastas no diretório atual.
 
